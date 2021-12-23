@@ -47,3 +47,11 @@ a {
     margin-bottom: 15px;
 }
 
+.contacts_list {
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contacts_list a {
+    text-decoration: none;
+}
